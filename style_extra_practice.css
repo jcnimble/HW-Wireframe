@@ -85,6 +85,7 @@ div.inline p{
     float:right;
     overflow: auto;
     }
+
 .container {
     background: yellow;
     width: 400px;
@@ -92,7 +93,6 @@ div.inline p{
     margin-top: 60px;
     padding-top: 30px;
     padding-bottom: 20px;
-    display: none;
     }
 
 #Box-1 {
